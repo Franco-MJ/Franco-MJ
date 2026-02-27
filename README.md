@@ -54,9 +54,10 @@ Mi nombre es Franco Ezequiel Monti Julien. Me especializo en desarrollo backend,
 </tr>
 </table>
 <hr>
+
 ## Contacto
 <p align="left">
-  <a href="mailto:francomontijulien2001@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=francomontijulien2001@gmail.com">
     <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
