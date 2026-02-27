@@ -1,5 +1,5 @@
 # Buenas! Soy Franco
-#### Desarrollador Backend 💻
+Desarrollador Backend 💻
 
 <p align="center">
   <img src="assets/hero.gif" width="1000"/>
