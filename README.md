@@ -2,5 +2,7 @@
 Desarrollador Backend 💻
 
 <p align="center">
-  <img src="assets/hero.gif" width="600"/>
+  <img src="assets/hero.gif" width="800"/>
 </p>
+
+### Sobre Mi
