@@ -5,4 +5,4 @@ Desarrollador Backend 💻
   <img src="assets/hero.gif" width="1000"/>
 </p>
 
-### Sobre Mi
+## Sobre Mi
